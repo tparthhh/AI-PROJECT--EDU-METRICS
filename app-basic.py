@@ -1128,15 +1128,10 @@ else:
         designed to help educators identify at-risk students early and provide timely interventions.
         
         ### 👥 Development Team
-        
-        This project was developed by students from **Gurukul The School**:
-        
-        - **Daksh Goyal** (XII S1)
-        - **Parth Tyagi** (XII S2)
-        - **Utkarsh Bhardwaj** (XII S2)
-        - **Uzair Ahmed** (XII S2)
-        
-        **Mentor:** Ms. Priyamvada  
+    
+    
+        - **Parth Tyagi** 
+    
         **Academic Year:** 2025-26
         
         ### 🎯 Problem Statement
@@ -1239,8 +1234,7 @@ else:
     ### 🙏 Acknowledgments
     
     Special thanks to:
-    - **Ms. Priyamvada** - Project mentor and guide
-    - **Gurukul The School** - Support and resources
+
     - **IBM & Edunet Foundation** - AI education initiative
     - **CBSE** - Promoting AI education in schools
     """)
@@ -1267,9 +1261,10 @@ st.markdown(
             EduMetrics © 2026
         </p>
         <p style='color: gray;'>
-            Built with ❤️ by Team Gurukul | Empowering Education Through AI
+            Built By @tparthhh| Empowering Education Through AI
         </p>
     </div>
     """,
     unsafe_allow_html=True
+
 )
